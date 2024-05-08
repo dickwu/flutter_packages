@@ -11,7 +11,7 @@ environment:
 dependencies:
   cached_video_player:
     git:
-      url: https://github.com/vikram25897/flutter_cached_video_player
+      url: https://github.com/dickwu/flutter_cached_video_player
       ref: feature/gradle_version_bump
   flutter:
     sdk: flutter
